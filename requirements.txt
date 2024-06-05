@@ -1,0 +1,6 @@
+dotenv
+langchain
+langchain-community
+pypdf
+openai
+
