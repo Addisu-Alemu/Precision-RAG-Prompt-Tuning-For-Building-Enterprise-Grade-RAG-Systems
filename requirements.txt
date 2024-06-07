@@ -1,6 +1,7 @@
-dotenv
+pandas
+python-dotenv
 langchain
-langchain-community
-pypdf
-openai
-
+langchain_community
+langchain_openai
+pysqlite3-binary
+scikit-learn

@@ -1,1 +1,6 @@
 .env
+venv/
+sqlite/
+pysqlite3/
+*.csv
+sqlite.tar.gz
