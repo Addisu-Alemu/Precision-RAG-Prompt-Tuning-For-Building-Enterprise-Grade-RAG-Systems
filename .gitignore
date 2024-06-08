@@ -4,3 +4,7 @@ sqlite/
 pysqlite3/
 *.csv
 sqlite.tar.gz
+*.pdf
+chroma/
+.~lock.embeddings.csv#
+faiss_index/
